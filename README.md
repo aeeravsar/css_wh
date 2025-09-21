@@ -5,7 +5,7 @@ Leverages the built-in `r_drawothermodels` rendering mode to enable wallhack on 
 ## Usage
 
 ```bash
-g++ css_wh.cpp -o css_wh
+g++ -o css_wh css_wh.cpp -lX11 -O2
 sudo ./css_wh
 ```
 
