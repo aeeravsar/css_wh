@@ -9,4 +9,4 @@ g++ css_wh.cpp -o css_wh
 sudo ./css_wh
 ```
 
-Follow the on-screen instructions to calibrate the memory address, then use the toggle commands.
+Program finds the memory address of the `r_drawothermodels` so you can use it in any server no matter the `sv_cheats` value.
